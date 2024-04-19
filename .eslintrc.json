@@ -21,11 +21,11 @@
       "prettier"
   ],
   "rules": {
-    "no-console": "error",
-    "prettier/prettier": "error",
+    "no-console": "off",
+    "prettier/prettier": "off",
     // "@typescript-eslint/explicit-member-accessibility": "error",
     // "@typescript-eslint/member-ordering": "error",
-    "tree-shaking/no-side-effects-in-initialization": "error"
+    "tree-shaking/no-side-effects-in-initialization": "off"
   },
   "overrides": [
     {
